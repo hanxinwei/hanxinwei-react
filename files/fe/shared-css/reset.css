@@ -1,0 +1,12 @@
+﻿/* reset.css */
+body, div, ul, ol, li, dl, dt, dd, input, button, a,p, img, h1, h2, h3, h4, h5, h6, form,pre{margin: 0;}
+ul, ol, li, dl, dt, dd, input, button{padding: 0;}
+html,body{height:100%;}
+*{-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;}
+body{ font-family: "Tahoma","Arial","Microsoft YaHei","黑体","宋体",sans-serif; font-size: 12px; color: #404040; min-width:1200px; background-color:#ebebeb;}
+ul,li{list-style: none;}
+a{text-decoration: none;}
+img{border: 0;}
+button{background-color: transparent;cursor: pointer;}
+textarea{resize: none;}
+input,button,textarea{border: 0;outline: none; font-size:12px; font-family: "Microsoft Yahei","Helvetica Neue",Helvetica,Arial,sans-serif;}
