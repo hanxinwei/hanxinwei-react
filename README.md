@@ -3,7 +3,7 @@
 First version
 
 # install
-Since this it not registered as a npm module, can be installed via github directly as follow
+Since this it not registered as a npm module, can be installed via github directly as follow: \
 npm install -g git+https://github.com/hanxinwei/hanxinwei-react.git#latest
 
 # Usage
